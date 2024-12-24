@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Main from "./Main/page";
 import Welcome from "./Welcome/page";
 import Value from "./Value/page";
